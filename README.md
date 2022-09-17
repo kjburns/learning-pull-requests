@@ -26,3 +26,4 @@ Add your name to the list below:
 * Mikayla Johnson
 * Jesse L. Heath (aka [heathology](https://github.com/heathology))
 * [Jake Fellwock](https://www.github.com/jakefellwock/)
+* [Karina Burns](https://twitter.com/karina_codes)
